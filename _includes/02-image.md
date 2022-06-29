@@ -1,2 +1,1 @@
-https://octodex.github.com/images/yaktocat.png
-how is the background image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png).

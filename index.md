@@ -1,11 +1,13 @@
+@@ -1,3 +1,4 @@
 @@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-
-{% include 01-name.md %}
+@@ -6,9 +7,11 @@ layout: default
 
 <br>
+
+{% include 02-image.md %}
 
 @@ -11,4 +12,4 @@ layout: default
 <br>

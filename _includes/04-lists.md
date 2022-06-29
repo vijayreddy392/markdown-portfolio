@@ -1,7 +1,7 @@
-:+1:
-:smile:
-:heart:
-:sparkles:
-:tada:
-:palm_tree:
-:rage:
+- :+1:
+- :smile:
+- :heart:
+- :sparkles:
+- :tada:
+- :palm_tree:
+- :rage:

@@ -1,7 +1,16 @@
+
+layout: default
+---
 Profile:**VIJAY**
 
+{% include 01-name.md %}
 version:_LATEST_
 
-ph:**1234567789**
+<br>
 
-email:_example.com_
+{% include 02-image.md %}
+
+<br>
+
+{% include 03-links.md %}
+ph:**1234567789**

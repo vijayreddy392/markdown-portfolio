@@ -1,1 +1,7 @@
-**KONNI VIJAY**_THIS IS MY RESUME_**THESE ARE MY PROFILE DETAILS**_FEEL FREE TO CALL ME_
+Profile:**VIJAY**
+
+version:_LATEST_
+
+ph:**1234567789**
+
+email:_example.com_
